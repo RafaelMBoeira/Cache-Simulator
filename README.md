@@ -6,7 +6,7 @@ Este trabalho é uma implementação em Python de um simulador de memórias cach
 
 O programa pode ser executado a partir da seguinte linha de comando:
 
-python cache_simulator.py <nsets> <bsize> <assoc> <pol> <output_flag> <input_file>
+python cache_simulator.py [nsets] [bsize] [assoc] [pol] [output_flag] [input_file]
 
 onde:
 
